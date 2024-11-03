@@ -1,7 +1,6 @@
 REM Title: WiFi-Harvester
 REM Author: tony
 REM Based on the code of: Siem TTommy
-REM: Version 1.1
 DELAY 2000
 GUI d
 DELAY 150
